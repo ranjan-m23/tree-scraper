@@ -1,0 +1,50 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,angieslist_rating,angieslist_review_count,com_rating,com_review_count,facebook_rating,facebook_review_count,website_name,homeadvisor_rating,homeadvisor_review_count,birdeye_rating,birdeye_review_count,customerlobby_rating,customerlobby_review_count,giftrocket_rating,giftrocket_review_count,holysmoke_rating,holysmoke_review_count,giftly_rating,giftly_review_count,manta_rating,manta_review_count,indeed_rating,indeed_review_count
+0,Emerald Lawns,Round Rock,+15129902199,3.5,190,4.2,205.0,4.5,756.0,4.8,237.0,4.1,43.0,https://emeraldlawnsaustin.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Joe's Tree Care,Austin,+15122151551,4.5,170,4.1,10.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.joestreecaretx.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Good Guys Tree Service,Austin,+15127433909,4.5,152,4.9,432.0,4.6,159.0,5.0,23.0,4.8,21.0,http://www.goodguystreeservice.com/,4.7,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Aaron's Tree Service,Austin,+15122969803,5.0,104,0.0,0.0,0.0,0.0,0.0,0.0,4.6,5.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Brents Tree Service,Austin,+15123108789,2.5,99,4.4,87.0,0.0,0.0,0.0,0.0,0.0,0.0,https://www.brentstreeservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Real Green Pest and Lawn,Austin,+15124547336,3.5,99,4.4,79.0,4.3,98.0,0.0,0.0,0.0,0.0,http://austinpestcontrolservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,JW Tree & Land Service,Austin,+15127436577,4.5,86,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Silver Tree,Austin,+15123173580,5.0,78,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,The Tree Man,Austin,+15125673555,4.5,77,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,https://austintreeman.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Central Texas Tree Care,Austin,+15129739090,5.0,75,4.7,12.0,4.9,40.0,0.0,0.0,4.0,10.0,https://www.centraltexastreecare.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Woody's Tree Service & Landscape,Austin,+15127515449,4.0,72,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Hill Country Tree Trimming,Round Rock,+15129054126,5.0,69,5.0,45.0,5.0,3.0,0.0,0.0,0.0,0.0,http://www.hillcountryarborist.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Grass Works,Austin,+15127971640,2.5,67,4.3,84.0,3.7,12.0,5.0,31.0,4.2,9.0,https://www.grassworksaustin.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Better Price Tree Service,Austin,+15123003197,5.0,62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Giraffe Tree & Landscaping Services,Round Rock,+15126947537,4.5,61,5.0,6.0,0.0,0.0,0.0,0.0,4.9,6.0,http://www.giraffetreeservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Top Choice Lawn Care,Austin,+15122917050,4.5,57,4.9,142.0,4.6,34.0,4.8,9.0,0.0,0.0,http://www.topchoiceaustin.com/,0.0,0.0,4.8,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Sid Mourning Tree Service,Austin,+15124200733,3.5,55,4.8,240.0,4.7,248.0,0.0,0.0,4.3,5.0,http://sidmourningtreeservice.com/,0.0,0.0,0.0,0.0,5.0,620.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Oscar Ponce Tree Service,Austin,+15126531295,5.0,51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,5.0,8.0,1.0,1.0,5.0,50.0,0.0,0.0,0.0,0.0
+18,The HOW Foundation,Austin,+15124769919,3.5,50,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Austin Tree Experts,Austin,+15129969100,4.0,46,3.2,17.0,4.7,189.0,0.0,0.0,4.0,2.0,https://www.austintreeexperts.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,The Hisey Company,Austin,+15129007948,3.5,46,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.3,10.0,2.6,5.0
+21,J & M Services,Pflugerville,+15129696267,5.0,45,4.9,200.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.jandmproservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Ortiz Tree Trimming,Austin,+15125076659,5.0,41,0.0,0.0,0.0,0.0,0.0,0.0,4.8,4.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Certified Tree Care,Austin,+15129007946,4.5,44,4.4,35.0,5.0,1.0,0.0,0.0,4.3,20.0,http://www.certifiedtreecarellc.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,10.0
+24,Austin Beautiful Trees,Austin,+15126559401,5.0,41,5.0,3.0,5.0,32.0,0.0,0.0,0.0,0.0,http://austinbeautifultrees.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Tommy's Tree Service,Austin,+15125776465,4.5,40,4.8,56.0,0.0,0.0,0.0,0.0,0.0,0.0,http://tommystreeservices.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0
+26,Mike's Tree Service,Leander,+15122605455,5.0,38,4.7,24.0,4.8,47.0,0.0,0.0,0.0,0.0,http://mikestreeservicesaustin.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,Sprinkler Repair Pros,Austin,+15123875966,5.0,38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Ted's Trees,Austin,+15129288733,3.0,38,2.8,21.0,4.3,35.0,0.0,0.0,4.4,6.0,http://www.tedstrees.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Austin Tree Surgeons,Austin,+15123014400,4.5,37,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,not claimed on google,0.0,0.0,5.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Isaias Gonzalez Landscaping,Austin,+15125710293,5.0,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,Longhorn Lawns,Austin,+15123947152,4.0,36,3.6,12.0,0.0,0.0,0.0,0.0,4.5,13.0,http://www.longhornlawnsaustin.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,PRV Tree Service,Round Rock,+15125160188,4.0,36,3.6,24.0,5.0,6.0,0.0,0.0,0.0,0.0,http://www.prvtreeservice.com/,4.7,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Capitol Tree Care,Austin,+15129136833,5.0,33,4.6,13.0,5.0,12.0,0.0,0.0,5.0,11.0,https://www.arboristaustin.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Austin Tree Patrol Services,Austin,+15122946940,5.0,33,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,The Tree Tender,Austin,+15124106926,5.0,32,5.0,47.0,5.0,20.0,0.0,0.0,4.9,14.0,http://www.thetreetender.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Austin Tree Service,Austin,+15123418888,4.5,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Sunlight Tree Service,Austin,+15125523789,4.5,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,Adam's Apple Tree Service,Austin,+15129128733,4.5,29,4.4,11.0,5.0,37.0,0.0,0.0,0.0,0.0,http://www.adamsappletreeservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Big G Tree Experts,Austin,+15125545291,5.0,27,4.6,9.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,4.6,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,KG Lawn Care,Round Rock,+15129709250,5.0,26,4.6,8.0,0.0,0.0,0.0,0.0,5.0,1.0,http://www.kglawns.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Arbor Oaks Tree Professionals,Georgetown,+15122406047,4.5,26,4.9,61.0,5.0,8.0,4.5,142.0,4.5,11.0,http://arboroakstreepros.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,Beny's Tree Service,Austin,+15127172614,5.0,25,5.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,https://benystreeserviceatx.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,Catheys Austin Tree Service,Cedar Park,+15125736187,5.0,25,4.6,18.0,0.0,0.0,0.0,0.0,0.0,0.0,http://catheystreeservice.com/,0.0,0.0,4.6,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,Vista Tree Service,Austin,+15129037373,5.0,24,5.0,143.0,5.0,21.0,0.0,0.0,5.0,6.0,http://vistatreeservice.com/,0.0,0.0,5.0,145.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,Best Tree Care,Austin,+15124018733,3.5,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,ABC Lawn,Pflugerville,+15128155296,2.5,24,2.8,20.0,0.0,0.0,4.5,2.0,0.0,0.0,http://www.abclawn.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,Green Tree Professional,Austin,+15129994067,4.0,23,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Catheys Lawn Care,Austin,+15125736187,4.5,22,4.4,16.0,0.0,0.0,0.0,0.0,0.0,0.0,http://catheyslawncare.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

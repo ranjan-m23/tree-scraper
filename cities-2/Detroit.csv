@@ -1,0 +1,16 @@
+,name,city,phone,yelp_rating,yelp_review_count,manta_rating,manta_review_count,website_name,google_rating,google_review_count,facebook_rating,facebook_review_count,angieslist_rating,angieslist_review_count,homeadvisor_rating,homeadvisor_review_count,glassdoor_rating,glassdoor_review_count,indeed_rating,indeed_review_count,birdeye_rating,birdeye_review_count,giftly_rating,giftly_review_count,thumbtack_rating,thumbtack_review_count
+0,Sanchez Tree Service,Pontiac,+12487450519,2.5,18,1.0,2.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Arbor Man,Livonia,+17347516746,4.5,17,0.0,0.0,http://www.thearborman.com/,4.8,44.0,4.8,13.0,5.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Independent Lawn Service,Livonia,+17346672476,3.5,8,0.0,0.0,not claimed on google,0.0,0.0,4.8,16.0,4.6,454.0,4.7,198.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Great Lakes Landscaping,Chesterfield,+15867547336,3.0,7,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,4.7,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,The Davey Tree Expert Company,Auburn Hills,+12483719007,3.0,6,0.0,0.0,https://www.davey.com/local-offices/north-detroit-tree-service/,3.9,7.0,0.0,0.0,4.2,93.0,0.0,0.0,4.0,2.0,3.6,360.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,K & S Tree Service,Leonard,+12482369299,3.0,6,0.0,0.0,http://www.kandstreeservice.com/,4.4,31.0,4.0,4.0,4.9,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,Branch Tree & Landscape Service,Warren,+15867567737,3.0,5,0.0,0.0,not claimed on google,4.2,32.0,5.0,8.0,4.4,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,The Davey Tree Expert Company,Chesterfield,+15867839311,3.5,5,0.0,0.0,https://www.davey.com/local-offices/northeast-detroit-tree-service/,2.4,15.0,0.0,0.0,4.7,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Eagle Landscaping & Supply,Southfield,+12483564342,4.0,4,0.0,0.0,http://eaglelandscapesupply.com/,4.2,66.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Polgar Tree Service & Removal,Birmingham,+17345858549,4.0,4,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Gary's Tree and Crane Service,Detroit,+13137798025,4.0,3,0.0,0.0,http://garystreeinc.com/,4.7,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,CutMyTreeDown,Taylor,+13135629051,2.5,3,0.0,0.0,http://www.cutmytreedown.com/,4.3,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,3.0,4.0,0.0,0.0
+12,Smith Tree Care Experts,Livonia,+12489437552,2.5,3,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,20.0
+13,Camelot Tree & Shrub Co,Roseville,+13138841699,3.0,2,0.0,0.0,https://www.camelottree.com/,4.3,19.0,4.5,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Anway's Quality Tree Care,Farmington Hills,+13135378786,3.5,2,0.0,0.0,https://anwaystreeservice.business.site/,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

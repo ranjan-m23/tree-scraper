@@ -1,0 +1,31 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,angieslist_rating,angieslist_review_count,homeadvisor_rating,homeadvisor_review_count,website_name,facebook_rating,facebook_review_count,thumbtack_rating,thumbtack_review_count,birdeye_rating,birdeye_review_count,manta_rating,manta_review_count,com_rating,com_review_count,houzz_rating,houzz_review_count,giftly_rating,giftly_review_count
+0,Price Tree Care,Nashville,+16155969553,4.0,29,4.3,21.0,5.0,14.0,4.8,7.0,https://pricetreecare.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Moore & Smith Tree Care,Nashville,+16158778733,5.0,18,4.8,110.0,0.0,0.0,0.0,0.0,https://mooresmithtrees.com/,4.8,19.0,4.9,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Kaily's Tree Service,Nashville,+16154961542,5.0,13,4.7,43.0,0.0,0.0,0.0,0.0,http://www.kailystreeservice.com/,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Jones Tree Care,Nashville,+16152621134,4.5,12,4.9,8.0,0.0,0.0,0.0,0.0,http://www.jonestreecarenashville.com/,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Quality Tree Surgery,Nashville,+16158336638,5.0,10,4.7,13.0,4.9,29.0,0.0,0.0,http://www.qualitytreesurgery.com/,0.0,0.0,0.0,0.0,4.7,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Arbor Art Tree Care,Nashville,+16152999999,4.0,8,4.5,26.0,0.0,0.0,0.0,0.0,http://arborart.net/,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,Bryan Lawn Care,Nashville,+16154917427,2.5,8,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Dandy Tree Service,Goodlettsville,+16154793584,1.5,8,2.9,23.0,0.0,0.0,4.0,57.0,https://dandytreeservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Karol's Tree Service,Nashville,+16157754497,4.0,7,4.0,8.0,0.0,0.0,4.7,211.0,http://karolstreeservice.com/,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Community Tree Preservation,Nashville,+16158322410,3.5,7,4.5,15.0,0.0,0.0,0.0,0.0,https://www.communitytreepreservation.com/,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Covenant Landscapes,Nashville,+16159242000,4.5,6,5.0,5.0,0.0,0.0,0.0,0.0,http://www.covenantlandscapes.com/,4.7,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,The Davey Tree Expert Company,Nashville,+16152548733,3.5,5,4.0,27.0,4.5,73.0,0.0,0.0,https://www.davey.com/local-offices/nashville-tree-service-and-lawn-service/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Danny's Tree Service,Nashville,+16156912077,3.0,4,4.5,22.0,5.0,10.0,0.0,0.0,https://dannys-tree-service.ueniweb.com/?utm_campaign=gmb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Falling Timbers Tree Service,Portland,+16154909419,5.0,4,4.7,23.0,0.0,0.0,0.0,0.0,http://www.fallingtimberstrees.com/,4.7,14.0,4.0,7.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Turf Managers,Nashville,+16152697706,2.5,4,4.6,16.0,2.0,33.0,0.0,0.0,https://www.turfmanagersllc.com/,4.6,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Turf Masters Lawn Care,Spring Hill,+18889248873,3.0,4,4.7,87.0,4.0,5.0,0.0,0.0,https://turfmasterslawncare.com/?utm_source=google&utm_medium=mybusiness&utm_campaign=nashville,4.6,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Druid Tree Service,Nashville,+16153734342,4.5,3,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Mow Nashville Tree Service,Nashville,+16159458010,4.5,3,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Tanksley Tree Service,Nashville,+16152699464,5.0,3,4.4,25.0,0.0,0.0,0.0,0.0,http://tanksleytreeservice.com/,4.8,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Smart Scapes,Nashville,+16153560139,3.5,3,4.8,32.0,5.0,4.0,0.0,0.0,http://www.landscapesnashville.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,5.0,1.0,0.0,0.0
+20,Beaver Tree Trimming,Lavergne,+16153354174,4.5,3,5.0,4.0,0.0,0.0,5.0,6.0,http://www.beavertreetrimming.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Hutchison Tree Service,Antioch,+16159411176,3.5,3,4.2,5.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Downs Tree Service,Mt. Juliet,+16155863637,5.0,2,4.5,19.0,0.0,0.0,0.0,0.0,https://downs-tree-service.business.site/?utm_source=gmb&utm_medium=referral,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,CUT Tree Service,Nashville,+16152608797,5.0,2,5.0,25.0,0.0,0.0,4.7,78.0,http://cutnashville.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,treeSAVVY Professional Arborist,Nashville,+16157718733,5.0,2,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0
+25,The Gentle Arborist,Nashville,+16158766904,1.5,2,3.9,7.0,0.0,0.0,0.0,0.0,http://thegentlearborist.com/,4.5,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Langford Tree Care,Hendersonville,+16157889596,5.0,2,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,Tree Doctors,Nashville,+16152402714,3.0,2,4.5,28.0,0.0,0.0,0.0,0.0,https://treedoctorstn.com/,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,TN Tree Preservation,College Grove,+16155864742,5.0,2,5.0,28.0,0.0,0.0,0.0,0.0,http://tntreepreservation.com/,0.0,0.0,4.8,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0
+29,Darren Bishop Landscape-Design,Nashville,+16159454224,2.5,2,3.7,3.0,0.0,0.0,0.0,0.0,http://www.dblandscapedesign.com/,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.2,8.0,0.0,0.0

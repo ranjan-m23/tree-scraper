@@ -1,0 +1,42 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,facebook_rating,facebook_review_count,manta_rating,manta_review_count,website_name,angieslist_rating,angieslist_review_count,homeadvisor_rating,homeadvisor_review_count,rateabiz_rating,rateabiz_review_count,giftly_rating,giftly_review_count,birdeye_rating,birdeye_review_count,thumbtack_rating,thumbtack_review_count,bark_rating,bark_review_count,com_rating,com_review_count
+0,Affordable Yard & Tree Service,Tucson,+15202728718,4.5,45,4.7,23.0,4.2,6.0,5.0,1.0,http://tucsontrees.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Angel's Landscaping,Tucson,+15203041478,4.5,29,1.4,9.0,4.8,4.0,0.0,0.0,not claimed on google,4.4,146.0,4.8,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Finest Tree Service,Tucson,+15203041603,4.5,23,5.0,128.0,5.0,6.0,0.0,0.0,https://finesttreeremoval.com/,0.0,0.0,0.0,0.0,4.9,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Action Yard & Tree Services,Tucson,+15208294791,4.0,21,4.0,40.0,4.2,5.0,0.0,0.0,https://actionyardandtree.com/,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Branching Out Tree Service,Tucson,+15208505166,4.0,16,4.7,41.0,5.0,2.0,0.0,0.0,https://branchingouttree.com/,4.7,138.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Morales Landscapers,Tucson,+15202216353,4.0,12,5.0,1.0,3.4,4.0,0.0,0.0,http://www.moraleslandscapers.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,The Palminators,Tucson,+15203044296,4.5,11,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,5.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Horticulture Unlimited,Tucson,+15203214678,3.0,11,4.8,53.0,4.7,19.0,0.0,0.0,http://www.horticultureunlimited.com/,4.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Chris and Amanda's Tree Service,Tucson,+15205919265,4.0,10,4.9,57.0,5.0,110.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,George Scaff Tree Service,Tucson,+15208500692,5.0,9,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,"Romeo Tree Service, LLC",Tucson,+15206030143,3.5,9,4.7,27.0,0.0,0.0,0.0,0.0,http://www.romeotreeservice.com/,4.7,24.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Casa Modelo Landscaping,Tucson,+15203129903,5.0,8,4.5,4.0,5.0,2.0,0.0,0.0,http://casamodelolandscaping.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Entrust A&A Landscape,Tucson,+15205399774,3.0,8,4.9,34.0,5.0,16.0,0.0,0.0,https://armadillocap8.wixsite.com/entrustaalandscape-1,3.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Tucson Arborists Professional Services,Tucson,+15208201394,5.0,7,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Arizona Arborists & Landscapes,Tucson,+15202822518,5.0,5,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0
+15,Born Again Landscaping,Tucson,+15203543976,4.5,7,4.9,45.0,5.0,3.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.6,10.0,5.0,31.0,0.0,0.0
+16,Complete Landscaping,Tucson,+15203238918,3.5,7,4.0,50.0,4.8,16.0,0.0,0.0,http://completelandscaping.com/,4.7,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Bartlett Tree Experts,Tucson,+15206289699,4.0,6,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,4.8,113.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Arizona Ponds & Landscaping,Tucson,+15206096386,5.0,6,5.0,8.0,0.0,0.0,0.0,0.0,http://www.azpondandyard.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Harpers Landscaping,Tucson,+15203586650,4.0,6,5.0,11.0,0.0,0.0,0.0,0.0,http://www.harperslandscapellc.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Pueblo Verde Landscaping,Tucson,+15209750655,4.5,6,5.0,1.0,0.0,0.0,0.0,0.0,https://www.puebloverdelandscaping.com/,4.8,216.0,4.8,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Brijer Resources,Tucson,+15202994784,4.5,6,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,29.0,0.0,0.0,0.0,0.0
+22,Sunset Sky Landscape,Tucson,+15206647057,4.0,6,4.8,20.0,0.0,0.0,0.0,0.0,http://sunsetskylandscape.com/?utm_source=gmb&utm_medium=referral,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Martin Home & Landscape Solutions,Tucson,+15204771458,2.5,6,0.0,0.0,1.0,1.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,"Karl's Tree Trimming Service, Inc",Tucson,+15208838001,5.0,5,4.7,16.0,0.0,0.0,0.0,0.0,http://www.karlstreetrimmingservice.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,2.0
+25,Nicholas Tree Removal Service,Tucson,+15207928733,2.5,5,5.0,1.0,0.0,0.0,0.0,0.0,http://nicholastreeservice.com/,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Arizona Tree & Landscape Service,Tucson,+15207901505,4.0,4,4.7,7.0,5.0,5.0,0.0,0.0,http://www.aztree.com/,4.7,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,Cutting Edge Landscaping,Tucson,+15204425474,5.0,3,5.0,8.0,5.0,5.0,0.0,0.0,http://celandscapingaz.com/,4.7,97.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Tucson Landscape Company,Tucson,+15206474957,5.0,3,0.0,0.0,4.4,4.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Q&T Services,Tucson,+15204440184,3.5,3,5.0,3.0,0.0,0.0,0.0,0.0,not claimed on google,4.6,16.0,4.8,197.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,AAA Mammoth Tree & Landscaping,Tucson,+15202726813,3.5,3,0.0,0.0,5.0,1.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.2,8.0,5.0,4.0,0.0,0.0,0.0,0.0
+31,Desert West Tree & Landscaping,Tucson,+15205294800,2.5,3,5.0,2.0,5.0,1.0,0.0,0.0,not claimed on google,4.7,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Ruiz Desert Landscape,Tucson,,2.5,3,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Aerial Tree Service,Tucson,+15203493974,5.0,2,0.0,0.0,4.3,3.0,0.0,0.0,not claimed on google,0.0,0.0,4.8,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Absolutely Trees,Tucson,+15208184455,5.0,2,5.0,11.0,0.0,0.0,0.0,0.0,http://www.treeandpalmservicestucson.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Southwest Landscapes of Tucson,Tucson,+15208093635,5.0,2,0.0,0.0,5.0,4.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Corey's Tree Service,Tucson,+15209753670,5.0,2,5.0,5.0,0.0,0.0,0.0,0.0,http://coreytree.com/,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Cardinal Landscaping,Tucson,+15203512360,5.0,2,5.0,3.0,0.0,0.0,0.0,0.0,https://sites.google.com/view/ajlandscapingconstruction/home,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,Landscapes by Kory,Tucson,+15204402332,5.0,2,4.7,29.0,5.0,2.0,0.0,0.0,http://www.landscapesbykory.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Arizona Land and Tree,Tucson,+15209776821,3.0,2,5.0,6.0,0.0,0.0,0.0,0.0,https://azlandandtree.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,Arapahoe Tree Surgeons,Tucson,+15208837727,3.5,2,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

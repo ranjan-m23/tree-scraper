@@ -1,0 +1,32 @@
+,name,city,phone,yelp_rating,yelp_review_count,facebook_rating,facebook_review_count,angieslist_rating,angieslist_review_count,thumbtack_rating,thumbtack_review_count,website_name,google_rating,google_review_count,houzz_rating,houzz_review_count,homeadvisor_rating,homeadvisor_review_count,birdeye_rating,birdeye_review_count,giftly_rating,giftly_review_count,checkbook_rating,checkbook_review_count,glassdoor_rating,glassdoor_review_count,masslive_rating,masslive_review_count
+0,Kelley Tree Service,Beverly,+16179535357,4.5,52,4.8,14.0,4.0,11.0,4.7,12.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Barrett Tree Service East,Medford,+16176165281,4.5,51,4.5,2.0,4.9,559.0,0.0,0.0,http://www.barretttreeeast.com/,5.0,114.0,4.9,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,McKinney Brothers Tree Service,Dedham,+17813209500,5.0,39,0.0,0.0,4.9,417.0,0.0,0.0,http://www.mckinneybrothers.com/,4.9,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Mal's Tree & Landscape,Chestnut Hill,+17814756212,3.5,28,4.6,4.0,0.0,0.0,0.0,0.0,http://malslandscaping.com/,4.7,114.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Walnut Tree Services,Stoughton,+17816400377,5.0,27,5.0,19.0,4.9,104.0,0.0,0.0,https://walnuttreeservice.com/,5.0,147.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,"Lynch Landscape & Tree Service, Inc.",Wayland,+19784432626,4.0,18,4.6,23.0,0.0,0.0,0.0,0.0,http://www.lynchlandscape.com/,4.3,20.0,4.9,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,DARDEN'S Tree & Landscaping,Boston,+16173253955,3.0,18,0.0,0.0,1.0,3.0,0.0,0.0,not claimed on google,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,GreenOp,Boston,+18573661701,4.5,17,0.0,0.0,0.0,0.0,0.0,0.0,http://green-op.com/,4.7,18.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,PS Tree Service,Holbrook,+16176486173,5.0,15,4.9,41.0,0.0,0.0,0.0,0.0,http://www.pstreeservice.com/,4.9,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Lopez Landscaping & Tree Service,Lynn,+17814261318,5.0,12,0.0,0.0,5.0,7.0,5.0,8.0,http://lopezlandscapingma.com/,4.5,20.0,0.0,0.0,4.8,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Bartlett Tree Experts,Waltham,+17816225980,2.5,8,4.5,2.0,4.2,51.0,0.0,0.0,https://www.bartlett.com/locations/Waltham-MA.cfm,2.8,4.0,0.0,0.0,0.0,0.0,3.3,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Lawn Care Plus,Roslindale,+16175929185,5.0,7,5.0,1.0,5.0,24.0,0.0,0.0,http://www.lawncareplusma.com/,3.8,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Bunner Property Maintenance and Tree Service,Quincy,+16179807019,3.0,7,4.6,8.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Levesque Wood Company,Andover,+19786828320,5.0,6,0.0,0.0,0.0,0.0,0.0,0.0,http://www.levesquewood.com/,4.9,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,All Season Tree Service,Stoughton,+17813414811,4.0,6,4.5,22.0,0.0,0.0,0.0,0.0,http://www.all-season-tree-service.com/,5.0,5.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Bransfield Tree Company,Stow,+17812372446,4.0,6,5.0,3.0,0.0,0.0,0.0,0.0,http://bransfieldtree.com/,3.3,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,B&R Tree Service,Natick,+19783696019,3.5,6,0.0,0.0,0.0,0.0,0.0,0.0,http://www.brtreeservicema.com/,5.0,7.0,0.0,0.0,4.6,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Cedarlawn Tree,Ashland,+15088812622,3.5,6,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Tree Specialists,Holliston,+15084298733,2.5,6,0.0,0.0,4.8,36.0,0.0,0.0,http://www.treespecialists.com/,3.9,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Boston Tree Preservation,Woburn,+17817290095,4.5,5,5.0,1.0,0.0,0.0,0.0,0.0,http://www.bostontreepreservation.com/,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,55.0,0.0,0.0,0.0,0.0
+20,Butler & Sons Tree Service,Bellingham,+16179248322,5.0,4,0.0,0.0,0.0,0.0,0.0,0.0,http://www.butlerandsonstreeservice.com/,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Lee's Tree Service,Boston,+12036486238,5.0,4,4.8,6.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Schwan's Tree Care,Roxbury,+13152445787,4.0,4,5.0,12.0,5.0,2.0,0.0,0.0,http://www.schwanstreecare.com/,4.4,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Greater Boston Tree Service,Woburn,+16173083010,4.5,4,0.0,0.0,0.0,0.0,0.0,0.0,https://www.greaterbostontreeservice.com/,5.0,9.0,0.0,0.0,4.9,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Northern Boston Tree Service,Arlington,+16176638888,5.0,3,0.0,0.0,5.0,1.0,0.0,0.0,http://www.northernbostontree.com/,5.0,33.0,0.0,0.0,4.6,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Acorn Tree & Landscaping,Boxborough,+19786350409,2.5,3,4.4,5.0,4.2,11.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Larosa Landscaping,Norwood,+17817620065,2.5,3,3.3,3.0,0.0,0.0,0.0,0.0,http://larosalandscaping.com/,4.8,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,2.0,0.0,0.0
+27,H & L Tree Removal,Weymouth,+16177507917,2.5,3,5.0,5.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Cliff Side Tree Service,Boston,+12078418226,5.0,2,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Gold Landscaping Service,Needham,+16173237500,5.0,2,0.0,0.0,4.4,7.0,0.0,0.0,https://www.goldlandscaping.com/,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,1.0
+30,Groundmasters,Stoneham,+17812790818,3.0,2,0.0,0.0,5.0,3.0,0.0,0.0,http://groundmasterscorp.com/,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,15 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,angieslist_rating,angieslist_review_count,indeed_rating,indeed_review_count,birdeye_rating,birdeye_review_count,website_name,homeadvisor_rating,homeadvisor_review_count,com_rating,com_review_count,facebook_rating,facebook_review_count
+0,Mow It Right,Olive Branch,+19014742434,2.0,13,4.0,145.0,2.9,42.0,3.5,4.0,4.0,153.0,http://mowitright.com/,0.0,0.0,0.0,0.0,0.0,0.0
+1,Arbor MD Tree Care,Memphis,+19016040179,3.5,3,5.0,6.0,5.0,34.0,0.0,0.0,5.0,11.0,http://arbormdtreecare.com/,4.7,2.0,0.0,0.0,0.0,0.0
+2,Sanders Tree & Debris Removal,Memphis,+19013245885,5.0,3,0.0,0.0,5.0,207.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0
+3,Jones Brothers Tree and Landscape Co,Memphis,+19013778733,3.5,3,4.5,12.0,4.6,90.0,0.0,0.0,0.0,0.0,http://www.jonesbrostree.com/local-offices/memphis-tree-service-and-lawn-service/,0.0,0.0,0.0,0.0,0.0,0.0
+4,Fairway Lawns - Memphis,Memphis,+19017521222,2.5,3,4.3,13.0,3.8,10.0,0.0,0.0,0.0,0.0,http://www.fairwaylawns.com/,0.0,0.0,0.0,0.0,0.0,0.0
+5,Red's Tree Service,Memphis,+19018485323,5.0,2,5.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.redstreeservice.com/,0.0,0.0,0.0,0.0,0.0,0.0
+6,Robinson Tree Service,Memphis,+19013633539,5.0,1,4.8,17.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.robinsontree.net/,3.3,1.0,5.0,1.0,0.0,0.0
+7,Mister Tree Service,Memphis,+19013003938,5.0,1,4.7,50.0,5.0,2.0,0.0,0.0,0.0,0.0,https://mistertreeservice.com/,0.0,0.0,0.0,0.0,5.0,34.0
+8,Jeff's Tree Service,Memphis,+19016208461,5.0,1,0.0,0.0,0.0,0.0,0.0,0.0,4.6,9.0,not claimed on google,0.0,0.0,0.0,0.0,4.8,21.0
+9,Addison Tree Care,Memphis,+19014973810,5.0,1,5.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,https://www.addisontreeremovalmemphis.com/,0.0,0.0,0.0,0.0,0.0,0.0
+10,Harrison Tree Service,Lakeland,+19017225712,5.0,1,4.3,6.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.harrison-tree.com/,4.8,165.0,0.0,0.0,4.6,9.0
+11,A & H Affordable Tree Service,Collierville,+19016748010,5.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,5.0,1.0,0.0,0.0
+12,Holloway’s Tree Care,Drummonds,+19014894906,5.0,1,5.0,5.0,5.0,1.0,0.0,0.0,0.0,0.0,http://www.chuckhollowaystreecare.com/,0.0,0.0,5.0,1.0,0.0,0.0
+13,Tree Tech,Memphis,+19016433167,1.0,1,0.0,0.0,0.0,0.0,4.2,14.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,5.0,13.0

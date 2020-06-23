@@ -1,0 +1,4 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,facebook_rating,facebook_review_count,homeadvisor_rating,homeadvisor_review_count,com_rating,com_review_count,website_name,angieslist_rating,angieslist_review_count
+0,Joe's Yard Service,Yakima,+15099419430,2.5,14,4.6,92.0,4.6,4.0,4.4,128.0,4.0,238.0,https://joesyardserviceyakima.com/,0.0,0.0
+1,All Around Tree Care,Puyallup,+12533633656,2.5,5,4.6,9.0,0.0,0.0,0.0,0.0,0.0,0.0,http://www.allaroundtreecare.org/,0.0,0.0
+2,GM Nelson Enterprises,Duvall,+14254639805,5.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not claimed on google,5.0,5.0

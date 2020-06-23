@@ -1,0 +1,32 @@
+,name,city,phone,yelp_rating,yelp_review_count,google_rating,google_review_count,angieslist_rating,angieslist_review_count,website_name,facebook_rating,facebook_review_count,com_rating,com_review_count,houzz_rating,houzz_review_count,birdeye_rating,birdeye_review_count,homeadvisor_rating,homeadvisor_review_count,networx_rating,networx_review_count
+0,Arbor Care Tree Service,Tempe,+14807975566,5.0,215,4.9,58.0,5.0,28.0,https://www.arborcareaz.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Heartwood Tree Care,Mesa,+14802695636,5.0,200,4.9,90.0,5.0,30.0,http://heartwoodtreeaz.com/,5.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Liberty Tree Experts,Scottsdale,+14804829374,5.0,72,5.0,35.0,5.0,67.0,https://libertytreeexpertsaz.com/,5.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Treewise,Mesa,+16024922432,4.5,66,4.9,14.0,0.0,0.0,http://treewiseaz.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Top Leaf Tree Service,Mesa,+14809995335,4.5,48,4.7,114.0,0.0,0.0,http://topleafaz.com/mesa-az/,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Urgent Care Tree & Lawn,Mesa,+14802417116,5.0,27,0.0,0.0,0.0,0.0,not claimed on google,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,Garnicas Landscaping,Mesa,+14804559991,4.5,27,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Pro Outdoor Services,Scottsdale,+14803767754,4.5,27,4.9,145.0,0.0,0.0,http://www.prooutdoorservices.com/,5.0,2.0,5.0,192.0,4.4,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Tree Doctors Inc,Gilbert,+14808542699,4.0,26,4.7,79.0,0.0,0.0,http://www.treedoctorsinc.com/,0.0,0.0,0.0,0.0,0.0,0.0,4.7,83.0,0.0,0.0,0.0,0.0
+9,Bassett Tree Service,Mesa,+14808489278,4.5,22,5.0,14.0,0.0,0.0,http://treeservice-mesa.com/,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,59.0,0.0,0.0
+10,ABC Landscaping LLC,Gilbert,+14804300140,4.0,20,5.0,4.0,0.0,0.0,http://abclandscapingllc.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,33.0,0.0,0.0
+11,Jose Knows Trees,Mesa,+14802384028,4.0,18,5.0,2.0,0.0,0.0,https://joseknowstrees.com/?utm_source=gmb&utm_medium=organic&utm_campaign=tmg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,"Pablo's Landscape & Tree Service, LLC",Phoenix,+16023198106,4.5,18,5.0,2.0,0.0,0.0,http://www.pabloslandscaping.net/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.9,30.0,0.0,0.0
+13,AZ Tree Trimmer,Mesa,+14802952581,2.5,12,0.0,0.0,2.0,2.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Bartlett Tree Experts,Mesa,+14808203939,4.5,11,4.5,13.0,4.2,29.0,https://www.bartlett.com/locations/Phoenix-AZ.cfm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,All About Trees,Gilbert,+14803433572,4.5,11,5.0,12.0,0.0,0.0,http://www.allabouttreesaz.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,EV Landscape,Mesa,+14805476355,4.0,11,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Integrity Tree Service,Phoenix,+16027880005,4.0,11,0.0,0.0,5.0,768.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,TDR Tree Services,Mesa,+14803729980,3.5,10,4.4,7.0,0.0,0.0,http://tdrtreeservicemesa.com/,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,4.5,7.0
+19,The Oasis Tree Service,Mesa,+14806543966,4.5,9,0.0,0.0,0.0,0.0,not claimed on google,4.7,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Silver Fern Landscaping,Chandler,+14807534703,5.0,9,0.0,0.0,5.0,1.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,King's Tree Service,Mesa,+14809646758,4.5,7,4.5,29.0,4.0,101.0,http://www.kingstreeserviceaz.com/,4.9,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,FNV Landscaping,Mesa,+16027250993,4.0,7,4.1,9.0,0.0,0.0,http://www.fnvlandscaping.com/,4.7,15.0,0.0,0.0,5.0,1.0,4.6,62.0,4.6,37.0,0.0,0.0
+23,RPM Services Extreme,Glendale,+16028633535,5.0,7,5.0,13.0,0.0,0.0,http://www.rpmse.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Gold Medal Tree Management,Mesa,+14802262666,5.0,6,5.0,7.0,0.0,0.0,not claimed on google,4.2,4.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0
+25,Warner's Tree Surgery,Mesa,+14809698808,4.5,5,4.3,17.0,0.0,0.0,http://warnerstreesurgery.com/,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Three Amigos Landscaping & Lawn Professionals,Scottsdale,+14802749925,4.0,5,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,ADAL Landscape services,Mesa,+16023834954,4.5,7,0.0,0.0,0.0,0.0,not claimed on google,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,WS Home Maintenance,Mesa,+14806950254,4.5,4,0.0,0.0,0.0,0.0,not claimed on google,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,12.0,0.0,0.0
+29,Bynum Tree and Landscape,Mesa,+14804271055,5.0,3,4.8,45.0,0.0,0.0,https://bynum-tree-and-landscape.business.site/?utm_source=gmb&utm_medium=referral,4.7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,JP Tree Care,Phoenix,+14802527266,5.0,2,5.0,18.0,0.0,0.0,https://phoenix-treeremoval.com/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,11.0,0.0,0.0
